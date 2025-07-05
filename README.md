@@ -50,18 +50,6 @@ results/output_file.json
 **fitness.py**: Defines the fitness evaluation function for VRP.
 **visualization.py**: Handles visualization of routing solutions with Matplotlib.
 
-### Testing
-To ensure the functionality and performance of the solution, run:
-
-`
-pytest tests/
-`
-### Contributing
-Interested in contributing? Please refer to CONTRIBUTING.md for guidelines on how to contribute to the project.
-
-#### License
-This project is licensed under the MIT License. See LICENSE for details.
-
 ### References
 DEAP Library: [DEAP Documentation](https://deap.readthedocs.io/en/master/)
 Vehicle Routing Problem: [VRP Overview](https://en.wikipedia.org/wiki/Vehicle_routing_problem)
